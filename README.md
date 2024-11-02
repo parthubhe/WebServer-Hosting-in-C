@@ -49,4 +49,9 @@ gcc -g "E:\downloads_29_10_24\sample_web_Server\cerveur\src\main.c"
  ]
  the use ./main.exe in the src folder[cd src]
 
+ References:
+ [1]	A HTTP Web Server Framework Written In C [https://github.com/infraredCoding/cerveur/tree/master] by Imran Rahim
+[2]	Imran Rahman’s YT video on making a webserver in C using BST [https://www.youtube.com/watch?v=cEH_ipqHbUw]
+
+
  
