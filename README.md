@@ -8,6 +8,8 @@ The project is designed to manage recipes and serve them as web content efficien
 
 Recipe Management System (RMS): A C-based console application that allows users to add, delete, search, sort, and filter recipes stored in a linked list.
 C-Based HTTP Server: A simple HTTP server implemented using Winsock on Windows, managing routes with a Binary Search Tree (BST) for quick and efficient content delivery.
+
+
 🌟 Features
 Recipe Management System
 Add, Delete, and Display Recipes: Easily manage your collection of recipes.
@@ -19,9 +21,14 @@ C-Based HTTP Server
 Route Management with BST: Efficiently handle HTTP requests and routes using a Binary Search Tree.
 Static Content Serving: Serve HTML, CSS, and images for a complete web-based experience.
 Dynamic Recipe Rendering: Render and display recipes from a recipes.txt file in HTML format.
+
+
+
 🛠️ Data Structures Used
 Binary Search Tree (BST): Used to manage and search routes efficiently for the HTTP server.
 Linked List: Used to store and manage recipes, providing flexibility and efficiency for dynamic data operations.
+
+
 🚀 How to Run
 Clone the Repository:
 bash
