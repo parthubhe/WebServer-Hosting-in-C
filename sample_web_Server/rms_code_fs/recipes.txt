@@ -1,0 +1,63 @@
+Tiramisu
+mascarpone, espresso, ladyfingers, cocoa powder
+whip
+Tiramisu-15-190x190.jpg
+60
+Italian
+dessert
+Poha
+flattened rice, onions, green chilies, turmeric
+fry
+poha.jpg
+15
+Indian
+breakfast
+Pancakes
+flour, milk, eggs, sugar, baking powder
+fry
+pancakes.jpg
+15
+American
+breakfast
+Pad Thai
+rice noodles, shrimp, tofu, peanuts, lime
+stir-fry
+pad_thai.jpeg
+25
+Thai
+dinner
+Margherita Pizza
+pizza dough, tomatoes, mozzarella, basil
+bake
+pizza_m.jpeg
+20
+Italian
+dinner
+Chicken Curry
+chicken, onions, tomatoes, spices
+cook
+chicken_curry.jpg
+45
+Indian
+dinner
+Cheese Cake
+cream cheese, eggs, sugar, vanilla extract
+bake
+cheesecake.jpg
+60
+American
+dessert
+Caesar Salad
+lettuce, croutons, parmesan cheese, Caesar dressing
+toss
+caesar_salad.jpeg
+10
+Italian
+appetizer
+Brownies
+chocolate, flour, butter, sugar, eggs
+bake
+brownies.jpeg
+30
+American
+dessert
